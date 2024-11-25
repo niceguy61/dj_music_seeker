@@ -66,7 +66,7 @@ def main():
     prompt = """
     You are a famous DJ and music producer in New York.
     You are selecting a playlist for a DJ party and downloading it.
-    avoid officialmusic video.
+    avoid officialmusic video. 
 
     reference artist: Marcross 82-99
     reference music: youtube music
